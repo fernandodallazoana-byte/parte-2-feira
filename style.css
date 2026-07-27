@@ -7,8 +7,9 @@ body {
     flex-direction: column;
 }
 
+
 header {
-    border-bottom: 3px solid #236a4e;
+    border-bottom: 3px solid #1359da;
     background-color: white;
     padding: 10px 25px;
     text-align: center;
@@ -18,7 +19,7 @@ header {
 
 h2 {
     margin-left: 42px;
-    color: white;
+    color: rgb(25, 94, 197);
 }
 
 h1 {
